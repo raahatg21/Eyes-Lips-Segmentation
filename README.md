@@ -2,7 +2,7 @@
 Python program which inputs an image of a face, and creates a mask around the eyes and lips of the face. 
 
 ## Overview
-The network architecture used here is BiSeNet [1] and ResNet. The dataset used is CelebAMask-HQ Dataset [2]. 
+The network architecture used here is based on BiSeNet [1] and ResNet. The dataset used is CelebAMask-HQ Dataset [2]. 
 
 ## How to run
 
@@ -24,13 +24,13 @@ python eyes-and-lips.py --img-path images/img1.jpg
 
 #### Demo 1
 ![Input](/images/img1.jpg)
-![Mask](/images/results/img1-mask.png)
-![Output](/images/results/img1-op.png)
+![Mask](/images/results/img1-mask.PNG)
+![Output](/images/results/img1-op.PNG)
 
 #### Demo 2
 ![Input](/images/img3.jpg)
-![Mask](/images/results/img3-mask.png)
-![Output](/images/results/img3-op.png)
+![Mask](/images/results/img3-mask.PNG)
+![Output](/images/results/img3-op.PNG)
 
 ## Sources
 - [1] [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](https://github.com/CoinCheung/BiSeNet)
