@@ -26,6 +26,8 @@ Input | Mask | Output
 ----- | ---- | ------
 <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/img1.jpg" width="480"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img1-mask.PNG" width="480"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img1-op.PNG" width="480">
 <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/img3.jpg" width="480"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img3-mask.PNG" width="480"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img3-op.PNG" width="480">
+<img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/img2.jpg" width="480"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img2-mask.PNG" width="480"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img2-op.PNG" width="480">
+<img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/img4.jpg" width="480"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img4-mask.PNG" width="480"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img4-op.PNG" width="480">
 
 ## Sources
 - [1] [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](https://github.com/CoinCheung/BiSeNet)
