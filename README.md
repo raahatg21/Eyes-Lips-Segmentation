@@ -22,15 +22,10 @@ python eyes-and-lips.py --img-path images/img1.jpg
 
 ## Results
 
-#### Demo 1
-![Input](/images/img1.jpg)
-![Mask](/images/results/img1-mask.PNG)
-![Output](/images/results/img1-op.PNG)
-
-#### Demo 2
-![Input](/images/img3.jpg)
-![Mask](/images/results/img3-mask.PNG)
-![Output](/images/results/img3-op.PNG)
+Input | Mask | Output
+----- | ---- | ------
+![Input](/images/img1.jpg) | ![Mask](/images/results/img1-mask.PNG) | ![Output](/images/results/img1-op.PNG)
+![Input](/images/img3.jpg) | ![Mask](/images/results/img3-mask.PNG) | ![Output](/images/results/img3-op.PNG)
 
 ## Sources
 - [1] [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](https://github.com/CoinCheung/BiSeNet)
