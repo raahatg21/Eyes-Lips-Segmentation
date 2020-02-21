@@ -24,8 +24,8 @@ python eyes-and-lips.py --img-path images/img1.jpg
 
 Input | Mask | Output
 ----- | ---- | ------
-<img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/img1.jpg" width="48"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img1-mask.PNG" width="48"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img1-op.PNG" width="48">
-![Input](/images/img3.jpg) | ![Mask](/images/results/img3-mask.PNG) | ![Output](/images/results/img3-op.PNG)
+<img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/img1.jpg" width="480"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img1-mask.PNG" width="480"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img1-op.PNG" width="480">
+<img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/img3.jpg" width="480"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img3-mask.PNG" width="480"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img3-op.PNG" width="480">
 
 ## Sources
 - [1] [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](https://github.com/CoinCheung/BiSeNet)
