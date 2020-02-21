@@ -24,7 +24,7 @@ python eyes-and-lips.py --img-path images/img1.jpg
 
 Input | Mask | Output
 ----- | ---- | ------
-![Input](/images/img1.jpg) | ![Mask](/images/results/img1-mask.PNG) | ![Output](/images/results/img1-op.PNG)
+<img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/img1.jpg" width="48"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img1-mask.PNG" width="48"> | <img src="https://github.com/raahatg21/Eyes-Lips-Segmentation/blob/master/images/results/img1-op.PNG" width="48">
 ![Input](/images/img3.jpg) | ![Mask](/images/results/img3-mask.PNG) | ![Output](/images/results/img3-op.PNG)
 
 ## Sources
